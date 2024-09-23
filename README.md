@@ -1,19 +1,19 @@
-|         | Mancal Lavado | Base Recuperada | Bloco Retirado | Tampas Fechadas | Composição| Quadro Programado | Situação |
-|---------|--------|------|-------|--------|------|------|------|
-| F1 Sup. | ✔     | -     | ✔    | ❌     | Aguardando | 6006 | ✔ |
-| F1 Inf. | ✔     | ✔    | -     | ✔      | Aguardando | 6014 | ✔ | 
-| F2 Sup. | ✔     | -    | ✔     | ✔     | Aguardando | 6028 | ✔ |
-| F2 Inf. | ✔     | ✔    | -     | ✔      | Aguardando | 6026 | ✔ |
-| F3 Sup. | ✔     | -    | ✔     | ❌     | Aguardando | 6040 | ✔ |
-| F3 Inf. | ✔     | ✔    | -     | ❌     | Aguardando | 6034 | ✔ |
-| F4 Sup. | ✔      | -    | ✔    | ❌     | Aguardando | 6011 | ❌ |
-| F4 Inf. | ✔     | ✔    | -     | ❌    | Aguardando | 6010 | ❌ |
-| F5 Sup. | ✔     | -    | ✔     | ✔      | Aguardando | 6035 | ✔ |
-| F5 Inf. | ✔     | ✔    | -     | ✔      | Aguardando | 6031 | ✔ |
-| F6 Sup. | ✔     | -    | ✔     | ✔      | Aguardando | 6041 | ✔ |
-| F6 Inf. | ✔     | ✔    | -     | ❌     | Aguardando | 6042 | ❌ |
-| R2E Sup. | ❌   | -     | -     | ❌     | Aguardando | - | ❌ |
-| R2E Inf. | ❌   | -   | -     | ❌      | Aguardando | - | ❌ |
+|         | Mancal Lavado | Base Recuperada | Bloco Retirado e Recuperado | Tampas Fechadas | Composição Calços| Quadro Programado | Situação | Bloco de Pressão (Situação)|
+|---------|---------------|-----------------|-----------------------------|-----------------|-----------|-------------------|----------|------------------|
+| F1 Sup. | ✔             | -               | ✔                          | ✔               | 50+40=90  | 6006              | ✔        | Montar composição  |
+| F1 Inf. | ✔             | ✔               | -                          | ✔               | 50 + 40 = 90 | 6014           | ✔        |  Montar composição  |
+| F2 Sup. | ✔     | -    | ✔     | ✔     | 75 + 40 = 115 | 6028 | ✔ | Montar composição |
+| F2 Inf. | ✔     | ✔    | -     | ✔      | 100 + 40 = 140 | 6026 | ✔ | Montar composição  |
+| F3 Sup. | ✔     | -    | ✔     | ✔     | 45 = 45 | 6040 | ✔ | Montar composição  |
+| F3 Inf. | ✔     | ✔    | -     | ✔     | 75 = 75 | 6034 | ✔ | Montar composição  |
+| F4 Sup. | ✔      | -    | ✔    | ❌     |40 + 40 = 80| 6011 | ❌ | Montar composição  |
+| F4 Inf. | ✔     | ✔    | -     | ❌    | 40 + 40 = 80 | 6010 | ❌ | Montar composição  |
+| F5 Sup. | ✔     | -    | ✔     | ✔      | 25 = 25 | 6035 | ✔ | Finalizado montagem |
+| F5 Inf. | ✔     | ✔    | -     | ✔      | Aguardando | 6031 | ✔ | Montar composição  |
+| F6 Sup. | ✔     | -    | ✔     | ✔      | 20 = 20 | 6041 | ✔ | Finalizado Montagem |
+| F6 Inf. | ✔     | ✔    | -     | ❌     | Aguardando | 6003 | ❌ | Montar composição  |
+| R2E Sup. | ❌   | -     | -     | ❌     | - | - | ❌ | - |
+| R2E Inf. | ❌   | -   | -     | ❌      | Aguardando | - | ❌ | - |
 
 
 

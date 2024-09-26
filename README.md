@@ -6,14 +6,14 @@
 | F2 Inf. | ✔     | ✔    | -     | ✔      | 100 + 40 = 140 | 6026 | ✔ | Montar composição  |
 | F3 Sup. | ✔     | -    | ✔     | ✔     | 45 = 45 | 6040 | ✔ | Montar composição  |
 | F3 Inf. | ✔     | ✔    | -     | ✔     | 75 = 75 | 6034 | ✔ | Montar composição  |
-| F4 Sup. | ✔      | -    | ✔    | ❌     |40 + 40 = 80| 6011 | ❌ | Montar composição  |
-| F4 Inf. | ✔     | ✔    | -     | ❌    | 40 + 40 = 80 | 6010 | ❌ | Montar composição  |
+| F4 Sup. | ✔      | -    | ✔    | ✔     |40 + 40 = 80| 6011 | ✔ | Montar composição  |
+| F4 Inf. | ✔     | ✔    | -     | ❌    | 40 + 40 = 80 | 6010 | ✔ | Montar composição  |
 | F5 Sup. | ✔     | -    | ✔     | ✔      | 25 = 25 | 6035 | ✔ | Finalizado montagem |
-| F5 Inf. | ✔     | ✔    | -     | ✔      | Aguardando | 6031 | ✔ | Montar composição  |
+| F5 Inf. | ✔     | ✔    | -     | ✔      | - | 6031 | ✔ | Montar composição  |
 | F6 Sup. | ✔     | -    | ✔     | ✔      | 20 = 20 | 6041 | ✔ | Finalizado Montagem |
-| F6 Inf. | ✔     | ✔    | -     | ❌     | Aguardando | 6003 | ❌ | Montar composição  |
-| R2E Sup. | ❌   | -     | -     | ❌     | - | - | ❌ | - |
-| R2E Inf. | ❌   | -   | -     | ❌      | Aguardando | - | ❌ | - |
+| F6 Inf. | ✔     | ✔    | -     | ❌     | - | 6003 | ✔ | Montar composição  |
+| R2E Sup. | ❌   | -     | -     | ❌     | - | 5000 | ❌ | - |
+| R2E Inf. | ❌   | -   | -     | ❌      | - | 5002 | ❌ | - |
 
 
 

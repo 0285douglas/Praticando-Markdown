@@ -1,3 +1,6 @@
+Neste README eu trouxe meus conhecimentos da linguagem Markdown para o meu dia-a-dia, de forma que eu pudesse organizar minha rotina, aproveitando para praticar e melhorar. 
+
+
 |         | Mancal Lavado | Base Recuperada | Bloco Retirado e Recuperado | Tampas Fechadas | Composição Calços| Quadro Programado | Situação | Pendências |
 |---------|---------------|-----------------|-----------------------------|-----------------|-----------|-------------------|----------|------------------|
 | F1 Sup. | ✔             | -               | ✔                          | ✔               | 50+40=90  | 6006              | ✔        | Passar vedarosca |
